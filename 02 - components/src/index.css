@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #111;
+  color: #ffffff;
+}
+
+.card{
+  border: 1px solid #4caeea;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+.nav{
+  background-color: #ac7fe5;
+  padding: 20px;
+  margin: 5px;
+}
